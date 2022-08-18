@@ -6,6 +6,6 @@ Classification algorithms like Decision Tree, Logistic Regression, Decision Tree
 
 The accuracy scores of the model are: </br> </br> 
 
-**1. Logistic Regression:** 79.00 %
-**2. Decision Tree Classifier:** 84.9 %
-**3. Random Forest Classifier:** 91.7 %
+**1. Logistic Regression:** 79.00 % </br>
+**2. Decision Tree Classifier:** 84.9 % </br>
+**3. Random Forest Classifier:** 91.7 % </br>
